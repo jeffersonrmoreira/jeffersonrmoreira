@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 To see all the other badges are [here](https://www.credly.com/users/jeffersonrmoreira/badges)
 
 <!--START_SECTION:badges-->
-[![Lead Coach, AI for Youth Program]([(https://images.credly.com/images/10ab399e-3ea7-43ce-8dcf-cfbcc348ce43/image.png)])
+[![Lead Coach, AI for Youth Program]([(https://images.credly.com/images/10ab399e-3ea7-43ce-8dcf-cfbcc348ce43/image.png)])]
 
 [![IBM Cybersecurity Analyst Professional Certificate](https://images.credly.com/size/100x100/images/a850079a-75bb-41e1-adae-dedfabcf597c/Professional_Certificate_-_IBM_Cybersecurity_Analyst.png)](http://www.credly.com/badges/08a67167-7176-48bf-b173-0d9164dd032c "IBM Cybersecurity Analyst Professional Certificate")
 
