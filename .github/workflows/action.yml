@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: jeffersonrmoreira/badge-readme@main
         with:       
           CREDLY_USER: jeffersonrmoreira # optional, but default will use the same from github
