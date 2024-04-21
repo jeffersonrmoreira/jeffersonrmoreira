@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <h2> My Last badges </h2>
 
-To see all the other badges are [here](https://www.credly.com/users/jeffersonrmoreira/badges)
+To see all the other badges are [here](https://www.credly.com/users/jefferson-roger-moreira)
 
 <!--START_SECTION:badges-->
 [![Lead Coach, AI for Youth Program]([(https://images.credly.com/images/10ab399e-3ea7-43ce-8dcf-cfbcc348ce43/image.png)])]
