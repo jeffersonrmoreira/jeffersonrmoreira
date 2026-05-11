@@ -1,7 +1,6 @@
 ### Hello World #Coleguinhas !!! 👋
 
 <div align="">
-  <div align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img align="center" alt="JRM-Apple" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
   <img align="center" alt="JRM-MS-DOS" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/msdos/msdos-original.svg">
   <img align="center" alt="JRM-Linux" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
